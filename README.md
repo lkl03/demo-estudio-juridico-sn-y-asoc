@@ -1,2 +1,7 @@
-# demo-estudio-juridico-sn-y-asoc
-Demo web para Estudio juridico SN y Asoc. — diseñada por eterlab.
+# Estudio juridico SN y Asoc.
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
